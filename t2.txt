@@ -1,4 +1,3 @@
-<<<<<<< HEAD
+
 this git repo for demo purpse
-=======
->>>>>>> parent of 6c85c18 (Update t2.txt)
+
