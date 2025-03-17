@@ -1,2 +1,1 @@
-this git repo for demo purpose
-git featch command
+this git repo for demo purpse
